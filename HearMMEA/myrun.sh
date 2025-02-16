@@ -1,0 +1,1 @@
+nohup bash run_hearmmea.sh 0 DBP15K fr_en 0.4 3407 0 2.0 > fren_600dim_bs300_40percent.log
